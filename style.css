@@ -1,0 +1,31 @@
+body{
+    background-color: blueviolet;
+}
+div{
+    height: 200px;
+    width: 600px;
+    position: relative;
+    left: 25%;
+    background-color: rgb(180, 94, 255);
+    border-radius: 50px;
+}
+h1,input,button,p{
+    position: relative;
+    left: 25% ;
+    
+}
+h1{
+    padding-top: 5%;
+    font-family: cursive;
+    text-decoration:underline;
+    color: black;
+}
+button{
+    background-color: rgb(132, 255, 116);
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 10px;;
+}
+input{
+    font-size: medium;
+}
